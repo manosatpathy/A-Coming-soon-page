@@ -67,6 +67,7 @@ input {
     border-radius: 2rem;
     border: solid hsl(0, 36%, 70%) 1px;
     padding-left: 1.5rem;
+    background: transparent;
 }
 
 ::placeholder {
