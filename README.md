@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [(https://your-solution-url.com)]
-- Live Site URL: [https://manosatpathy.github.io/A-Coming-soon-page/]
+- Solution URL: [https://www.frontendmentor.io/solutions/coming-soon-page-with-email-validation-XpDx1VAhe-]
+- Live Site URL: [ https://manosatpathy.github.io/A-Coming-soon-page/ ]
 
 
 ### Built with
